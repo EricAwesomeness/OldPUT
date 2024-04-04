@@ -15,4 +15,4 @@ This PowerShell script, labeled as version 6.13.0, serves as a utility toolkit f
   - **Auto-Completion**: Utilizes an AutoCompleteStringCollection to provide auto-completion functionality for user input based on existing AD user names and payroll numbers.
   - **Job Parallelization**: Utilizes PowerShell's job parallelization features to unlock user accounts across multiple domain controllers simultaneously, improving efficiency.
 
-*(This is due to replication being broken in this environment. I have the rights as a tech to create a script but not to fix the domain replication.) 
+*(This is due to replication being broken in this environment causing it to take up to 20 minutes sometimes. I have the rights as a tech to create a script but not to fix the domain replication.) 
